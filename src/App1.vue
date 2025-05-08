@@ -68,7 +68,7 @@
     <section class="pt-24 relative overflow-hidden" style="min-height: 650px">
       <div class="absolute inset-0 z-0">
         <img
-          src="/img_1.jpg"
+          src="https://readdy.ai/api/search-image?query=Abstract%20world%20map%20with%20glowing%20digital%20connections%2C%20blue%20gradient%20background%20with%20golden%20light%20paths%20representing%20the%20Belt%20and%20Road%20Initiative%2C%20modern%20tech%20aesthetic%20with%20flowing%20data%20streams%20and%20network%20nodes%2C%20elegant%20and%20professional%20design%20for%20global%20communication&width=1440&height=650&seq=hero-bg-1&orientation=landscape"
           alt="全球互联网络背景"
           class="w-full h-full object-cover object-top"
         />
@@ -81,7 +81,7 @@
             Brimail — 搭建全球互联桥梁
           </h1>
           <p class="text-xl md:text-2xl mb-8 opacity-90">
-            秉承 BRI 精神，开启无限沟通可能
+            秉承 Bri 精神，开启无限沟通可能
           </p>
           <p class="text-lg mb-10 opacity-80 max-w-xl">
             连接东西方的专业邮件服务平台，为全球用户提供安全、高效、智能的跨境通信解决方案。
@@ -196,7 +196,7 @@
         </div>
         <div class="mb-16 relative h-96 rounded-xl overflow-hidden shadow-xl">
           <img
-            src="/img_3.jpg"
+            src="https://readdy.ai/api/search-image?query=Digital%20world%20map%20with%20Asia%20on%20the%20left%20and%20Americas%20on%20the%20right%2C%20without%20country%20borders%2C%20featuring%20glowing%20connection%20lines%20between%20major%20cities%2C%20bright%20network%20nodes%20in%20blue%20and%20gold%20color%20scheme%2C%20modern%20data%20visualization%20showing%20global%20connectivity%20with%20Pacific%20Ocean%20centered&width=1200&height=600&seq=map-bg-2&orientation=landscape"
             alt="以太平洋为中心的全球互联网络地图"
             class="w-full h-full object-cover object-top"
           />
@@ -326,7 +326,7 @@
             <div class="p-6 bg-gray-50 rounded-lg">
               <div class="flex items-center mb-4">
                 <img
-                  src="/img_0.jpg"
+                  src="https://readdy.ai/api/search-image?query=Professional%20Asian%20businessman%20portrait%2C%20confident%20smile%2C%20business%20attire%2C%20neutral%20background%2C%20corporate%20headshot%20style%2C%20high%20quality%20professional%20photo&width=100&height=100&seq=user1&orientation=squarish"
                   alt="用户头像"
                   class="w-12 h-12 rounded-full object-cover mr-4"
                 />
@@ -343,7 +343,7 @@
             <div class="p-6 bg-gray-50 rounded-lg">
               <div class="flex items-center mb-4">
                 <img
-                  src="/img_5.jpg"
+                  src="https://readdy.ai/api/search-image?query=Professional%20European%20businesswoman%20portrait%2C%20confident%20smile%2C%20business%20attire%2C%20neutral%20background%2C%20corporate%20headshot%20style%2C%20high%20quality%20professional%20photo&width=100&height=100&seq=user2&orientation=squarish"
                   alt="用户头像"
                   class="w-12 h-12 rounded-full object-cover mr-4"
                 />
@@ -360,7 +360,7 @@
             <div class="p-6 bg-gray-50 rounded-lg">
               <div class="flex items-center mb-4">
                 <img
-                  src="/img_2.jpg"
+                  src="https://readdy.ai/api/search-image?query=Professional%20Middle%20Eastern%20businessman%20portrait%2C%20confident%20smile%2C%20business%20attire%2C%20neutral%20background%2C%20corporate%20headshot%20style%2C%20high%20quality%20professional%20photo&width=100&height=100&seq=user3&orientation=squarish"
                   alt="用户头像"
                   class="w-12 h-12 rounded-full object-cover mr-4"
                 />
@@ -408,7 +408,7 @@
           </div>
           <div class="md:w-1/2">
             <img
-              src="/img_4.jpg"
+              src="https://readdy.ai/api/search-image?query=Digital%20Silk%20Road%20concept%20with%20Asia%20on%20the%20left%20and%20Americas%20on%20the%20right%2C%20modern%20visualization%20without%20country%20borders%2C%20showing%20global%20digital%20connections%20across%20Pacific%20Ocean%2C%20with%20flowing%20data%20streams%2C%20network%20nodes%20in%20blue%20and%20gold%20color%20scheme&width=600&height=400&seq=bri-concept&orientation=landscape"
               alt="数字丝绸之路概念图"
               class="w-full h-auto rounded-xl shadow-xl"
             />
